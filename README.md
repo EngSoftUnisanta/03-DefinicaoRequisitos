@@ -111,9 +111,9 @@ Para aprofundar seus conhecimentos sobre a criação de requisitos ágeis e o us
   * **Guias sobre User Stories:**
 
       * **Atlassian Agile Coach:** [Guia completo sobre User Stories](https://www.atlassian.com/br/agile/project-management/user-stories)
-      * **Blog da Zup:** [User Stories: O que são, como escrever e exemplos](https://www.google.com/search?q=https://www.zup.com.br/blog/user-stories)
+     
 
   * **Vídeos Tutoriais:**
 
-      * **YouTube:** [Azure DevOps - Product Backlog e Sprint Backlog (Tutorial em Português)](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DScV3beOL-dM)
-      * **YouTube:** [Como Escrever Boas Histórias de Usuário (em Inglês)](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Dl2cy2tLSry8)
+      * **YouTube:** [Azure DevOps - Plan your work with Azure Boards (em inglês)](https://www.youtube.com/watch?v=SbFKi6Hflc0)
+    

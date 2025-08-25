@@ -95,7 +95,7 @@ A entrega da atividade deverá ser feita através da aba **"Tarefas"** no Micros
 
 2.  **Cópia de Tela (Screenshot) do Backlog:**
 
-      * Tire uma cópia de tela nítida da sua tela de **"Boards" \> "Backlogs"** no Azure DevOps, mostrando a lista de User Stories criadas, priorizadas e com as estimativas de Story Points.
+      * Tire uma cópia de tela nítida da sua tela de **"Boards" \> "Backlogs"** no Azure DevOps, mostrando a lista de User Stories criadas, priorizadas.
 
 -----
 

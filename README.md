@@ -54,8 +54,10 @@ Como um [tipo de usuário], eu quero [realizar uma ação] para que eu possa [al
 
 A seguir, um exemplo completo de como uma User Story deve ser documentada no Azure DevOps.
 
-##### 📌 **User Story: Cadastro de Usuário**
+##### 📌 **User Story: Cadastro de Usuário**  (titulo)
 
+
+**Descrição**
 **Como um** aluno universitário,  
 **eu quero** me cadastrar na plataforma Connexa usando meu e-mail institucional,  
 **para que eu possa** criar, buscar e participar de grupos de estudo com segurança e legitimidade.

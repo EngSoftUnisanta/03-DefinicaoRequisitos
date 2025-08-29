@@ -57,7 +57,8 @@ A seguir, um exemplo completo de como uma User Story deve ser documentada no Azu
 ##### 📌 **User Story: Cadastro de Usuário**  (titulo)
 
 
-**Descrição**
+**Descrição:**
+
 **Como um** aluno universitário,  
 **eu quero** me cadastrar na plataforma Connexa usando meu e-mail institucional,  
 **para que eu possa** criar, buscar e participar de grupos de estudo com segurança e legitimidade.

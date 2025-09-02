@@ -37,7 +37,7 @@ Para iniciar a atividade, é necessário que um integrante do grupo crie a organ
 2.  Clique em "**Start free**" (Começar gratuitamente).
 3.  Na tela de login da Microsoft, **utilize suas credenciais institucionais** (o mesmo e-mail e senha que você usa para acessar o Teams, Outlook, etc.).
 4.  Após o login, o sistema pode pedir para confirmar alguns detalhes. Prossiga para criar sua **Organização** (sugestão: `NomeDaSuaFaculdade-SuaTurma`) e seu primeiro **Projeto**.
-5.  Ao criar o projeto, dê um nome a ele (ex: `Connexa-Grupo01`), mantenha a visibilidade como **"Private"** (Privado) e, nas configurações avançadas, selecione o processo **"Agile"** ou **"Scrum"** em *Work item process*.
+5.  Ao criar o projeto, dê um nome a ele (ex: `Connexa-Grupo01`), mantenha a visibilidade como **"Private"** (Privado) e, nas configurações avançadas, selecione o processo **"Agile"** em *Work item process*.
 6.  Após a criação, navegue até a seção **"Boards" \> "Backlogs"** no menu lateral esquerdo. É aqui que vocês irão criar e gerenciar suas User Stories.
 
 ### 🔹 Parte 2: Estrutura e Criação das User Stories
